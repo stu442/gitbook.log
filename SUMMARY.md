@@ -17,3 +17,7 @@
   * [코어 자바스크립트 2장, 실행 컨텍스트](undefined/undefined/2.md)
 * [모던 자바스크립트 Deep Dive](undefined/deep-dive/README.md)
   * [모던 자바스크립트 Deep Dive 스터디 1주차](undefined/deep-dive/deep-dive-1.md)
+* [실용주의 프로그래머(20주년 기념판)](undefined/20/README.md)
+  * [1장 실용주의 철학](undefined/20/1.md)
+  * [2장 실용주의 접근법](undefined/20/2.md)
+  * [4장 실용주의 편집증](undefined/20/4.md)

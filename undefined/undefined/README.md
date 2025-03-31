@@ -1,6 +1,6 @@
 # 코어 자바스크립트
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Jqeury를 사용하고,\
 변수는 var로 선언을 하는\

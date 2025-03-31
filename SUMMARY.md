@@ -4,6 +4,14 @@
 
 ## 개발 서적
 
+* [소프트 스킬 개정 2판](undefined/2/README.md)
+  * [1. 경력](undefined/2/1..md)
+  * [2. 셀프 마케팅](undefined/2/2..md)
+  * [3. 학습](undefined/2/3..md)
+  * [4. 생산성](undefined/2/4..md)
+  * [5. 재무 관리](undefined/2/5..md)
+  * [6. 건강 관리](undefined/2/6..md)
+  * [7. 마인드셋](undefined/2/7..md)
 * [코어 자바스크립트](undefined/undefined/README.md)
   * [코어 자바스크립트 1장, 데이터 타입](undefined/undefined/1.md)
   * [코어 자바스크립트 2장, 실행 컨텍스트](undefined/undefined/2.md)

@@ -1,6 +1,6 @@
 # 모던 자바스크립트 Deep Dive
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 회사에 활기를 불어넣고,\
 공부하는 분위기를 만들어보고자 스터디를 제안했습니다.

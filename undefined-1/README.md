@@ -2,6 +2,6 @@
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 보험사 유지보수 중 시스템 설계단을 이해하면 좋을 것 같다는 생각에 읽기 시작했습니다.
